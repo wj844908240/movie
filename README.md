@@ -4,8 +4,8 @@
 
 IDE:JetBrains PyCharm 3.4.1
 
-Python: 2.7.8
+Python: 3.5
 
-Django:1.7
+Flask:0.12.2
 
 MySQL:5.6.20
